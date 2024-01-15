@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "css.lint.unknownAtRules": "ignore",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14 
+  }
